@@ -1,0 +1,238 @@
+{
+  "landingPage": {
+    "hero": {
+      "id": "hero",
+      "title": "Ecosistemas digitales que aprenden, operan y escalan.",
+      "subtitle": "30% más rápido. 25% más accesible. 100% ingeniería senior.",
+      "ctaPrimary": "Construir mi sistema digital",
+      "ctaSecondary": "Ver módulos",
+      "background": {
+        "type": "parallax",
+        "layers": [
+          { "name": "texture", "movement": "static" },
+          { "name": "lion", "movement": "parallax-y-very-low" },
+          { "name": "titles", "movement": "fixed" },
+          { "name": "cyan-glow", "movement": "inverse" }
+        ]
+      },
+      "visual": {
+        "logoGlowColor": "#1BE2CA",
+        "theme": "dark-premium"
+      }
+    },
+ "about": {
+    "id": "que-es-avelion",
+    "title": "Un ecosistema diseñado para potenciar empresas con visión.",
+    "description": "Avelion combina tecnología vanguardista...",
+    "highlights": [
+      "Ingeniería tecnológica elegante",
+      "Diseño UI/UX de precisión",
+      "Marketing integral basado en datos",
+      "Automatización inteligente",
+      "Trazabilidad completa y dashboards",
+      "Integraciones API + software modular"
+    ],
+    "animations": {
+      "cardsHoverBorder": "cyan-appearing-border"
+    },
+    "media": {
+      "style": "dark-architecture-teal"
+    }
+  },
+    "valuePromise": {
+      "id": "promesa-valor",
+      "title": "Precisión. Velocidad. Accesibilidad.",
+      "blocks": [
+        {
+          "icon": "speed",
+          "title": "30% más rápido",
+          "description": "Procesos senior optimizados para tiempos reales de negocio."
+        },
+        {
+          "icon": "access",
+          "title": "25% más accesible",
+          "description": "Calidad premium sin barrera corporativa."
+        },
+        {
+          "icon": "architecture",
+          "title": "Arquitectura sólida",
+          "description": "Diseño, marketing y software trabajando como un mismo sistema."
+        }
+      ],
+      "animations": {
+        "countUp": true
+      },
+      "theme": "black-maximal"
+    },
+
+    "modules": {
+      "id": "modulos-ecosistema",
+      "title": "Módulos del Ecosistema Avelion",
+      "items": [
+        {
+          "name": "Sitios Web Inteligentes",
+          "description": "SEO estructurado · UI oscura premium · Embudos · CRM · Autoadministración · Analytics avanzado."
+        },
+        {
+          "name": "Marketing Digital Integral",
+          "description": "Campañas · Automatizaciones · Diseño · Performance · Remarketing."
+        },
+        {
+          "name": "Branding & Diseño Gráfico",
+          "description": "Identidad superior · Sistemas UI/UX · Manual institucional · Arquitectura narrativa."
+        },
+        {
+          "name": "Software Inteligente & Automatización",
+          "description": "Orquestación · Trazabilidad · Data generation · Dashboards · Modelos predictivos."
+        },
+        {
+          "name": "Sistemas de Escalamiento",
+          "description": "Diagnósticos · Auditorías · Optimización · Transformación digital para PyMEs."
+        }
+      ],
+      "animations": {
+        "loadFadeUp": true,
+        "hoverEdgeGlow": "cyan-digital-bevel"
+      }
+    },
+"realCases": {
+  "id": "casos-reales",
+  "title": "Casos Reales de Transformación",
+      "subtitle":"Cada engrane cuenta. Cada detalle impulsa.",
+  "theme": "carbon-900",
+  "animations": {
+    "hoverGlow": "cyan-edge"
+  },
+  "cases": [
+    {
+      "title": "Constructora Hidalgo",
+      "subtitle": "Analítica Predictiva para Control de Obra",
+      "stack": ["Node.js", "Next.js", "Firebase", "MySQL", "Chart.js", "Kotlin"],
+      "results": [
+        "Reducción del 22% en desviaciones de consumo",
+        "Mejoras significativas en control operativo"
+      ]
+    },
+    {
+      "title": "Satélite FC",
+      "subtitle": "Ecosistema Digital de Streaming y Scouting",
+      "stack": ["Next.js", "React", "WebRTC", "Node.js", "Firebase Storage"],
+      "results": [
+        "Transmisión en tiempo real optimizada",
+        "Sistema profesional de fichajes y scouting"
+      ]
+    },
+    {
+      "title": "EmotiLand",
+      "subtitle": "App Emocional Infantil con IA Móvil",
+      "stack": ["Kotlin", "Firebase", "Node.js", "Next.js", "TensorFlow Lite"],
+      "results": [
+        "Recolección estructurada de datos psicológicos",
+        "Analítica segmentada con correlaciones emocionales"
+      ]
+    },
+    {
+      "title": "FiberManager",
+      "subtitle": "Modelado de Redes Ópticas + SaaS",
+      "stack": ["Kotlin", "Node.js", "Firebase", "Google Maps API", "Leaflet.js"],
+      "results": [
+        "Trazabilidad completa de proyectos de fibra óptica",
+        "Georreferenciación operativa en tiempo real"
+      ]
+    },
+    {
+      "title": "Lavandería Hacienda",
+      "subtitle": "ERP + Predicción Logística",
+      "stack": ["Kotlin", "Node.js", "Firebase", "MySQL", "Chart.js"],
+      "results": [
+        "Digitalización total del proceso operativo",
+        "Reducción del 40% en tiempos administrativos"
+      ]
+    },
+    {
+      "title": "Sneaker Designer App",
+      "subtitle": "Render 3D en Tiempo Real para Artistas",
+      "stack": ["Unity3D", "Kotlin", "OpenGL", "Firebase Storage"],
+      "results": [
+        "Modelado y texturizado dinámico",
+        "Exportación directa a catálogos digitales"
+      ]
+    },
+    {
+      "title": "Serenia",
+      "subtitle": "Plataforma Web de Bienestar",
+      "stack": ["Next.js", "Node.js", "MongoDB", "Firebase Auth"],
+      "results": [
+        "Dashboards personalizados de hábitos",
+        "Almacenamiento seguro y cifrado"
+      ]
+    },
+    {
+      "title": "Clave App",
+      "subtitle": "App Educativa Multimedia",
+      "stack": ["Kotlin", "Firebase", "ExoPlayer", "Node.js"],
+      "results": [
+        "Entorno interactivo para aprendizaje musical",
+        "Estructuras escalables para contenido educativo"
+      ]
+    }
+  ]
+},
+
+    "whyAvelion": {
+      "id": "por-que-avelion",
+      "title": "Donde otras agencias entregan piezas, Avelion entrega sistemas.",
+      "bullets": [
+        "Senior desde el primer pixel",
+        "Estrategia + creatividad + ingeniería",
+        "Visión minimalista premium",
+        "Resultados medibles desde la primera semana",
+        "Integración total de branding, marketing y software"
+      ],
+      "animations": {
+        "bulletSlide": "soft-lateral"
+      }
+    },
+  "testimonials": {
+    "id": "testimonios",
+    "title": "Validación Profesional",
+    "items": [
+      {
+        "author": "Directora de Operaciones, Constructora Hidalgo",
+        "quote": "Avelion transformó nuestra operación digital en semanas; ahora tenemos trazabilidad completa y tiempos de entrega un 35% más rápidos.",
+        "photo": "constructora.png"
+      },
+      {
+        "author": "Gerente de Marketing, Satélite FC",
+        "quote": "Nunca habíamos tenido una agencia que integrara marketing, software y análisis de datos de manera tan eficiente. Los resultados se ven en tiempo real.",
+        "photo": "satelite.png"
+      },
+      {
+        "author": "CEO, EmotiLand",
+        "quote": "Con Avelion logramos un sistema inteligente de predicción de eventos que nos permite anticiparnos al comportamiento de nuestros clientes y optimizar la experiencia.",
+        "photo": "emotiland.png"
+      },
+      {
+        "author": "Gerente de Operaciones, FiberManager",
+        "quote": "El equipo de Avelion entendió nuestra operación desde cero y entregó un sistema escalable en menos tiempo del esperado, reduciendo costos hasta un 40%.",
+        "photo": "constructora.png"
+      }
+    ],
+    "style": "dark-cinematic-small-photo"
+  },
+
+    "finalCTA": {
+      "id": "cta-final",
+      "title": "Es momento de operar con precisión.",
+      "subtitle": "Ingeniería elegante para marcas con visión.",
+      "cta": "Agendar llamada",
+      "theme": "dark-full",
+      "visual": {
+        "lion": "static-dominant"
+      },
+      "animations": {
+        "reverseParallax": "subtle-upward"
+      }
+    }
+  }
+}

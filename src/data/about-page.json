@@ -1,0 +1,57 @@
+{
+  "intro": {
+    "id": "intro",
+    "title": "Dominio. Precisión. Ingeniería de Marca.",
+    "subtitle": "Avelion Developers es un estudio de tecnología y diseño que convierte visión en infraestructura operativa.",
+    "description": "Construimos sistemas, marcas y experiencias que se mueven con la misma lógica que las empresas de alto rendimiento: orden, datos y estética funcional."
+  },
+
+  "story": {
+    "id": "story",
+    "title": "Donde la visión se convierte en sistema.",
+    "content": "Avelion nació con una idea clara: eliminar la fricción tecnológica que frena a las empresas. Creamos un modelo híbrido entre agencia creativa, ingeniería de software y optimización operativa. El resultado: marcas que operan con precisión, obtienen datos en tiempo real y ejecutan decisiones basadas en evidencia."
+  },
+
+  "pillars": {
+    "id": "brand-pillars",
+    "title": "Fundamentos que definen nuestra ingeniería.",
+    "items": [
+      {
+        "name": "Elegancia funcional",
+        "description": "Diseño que elimina ruido, amplifica intención y guía decisiones."
+      },
+      {
+        "name": "Tecnología con propósito",
+        "description": "Soluciones inteligentes que reducen tiempos, costos y complejidad operativa."
+      },
+      {
+        "name": "Rendimiento empresarial",
+        "description": "Sistemas construidos para crecer, automatizar y predecir."
+      }
+    ]
+  },
+
+  "vision": {
+    "id": "vision",
+    "title": "Una infraestructura para las marcas que piensan en mañana.",
+    "description": "Avelion establece un nuevo estándar: sitios inteligentes, sistemas conectados, trazabilidad completa y una dirección creativa que convierte cada punto de contacto en capital estratégico."
+  },
+
+  "values": {
+    "id": "values",
+    "title": "Lo que defendemos.",
+    "items": [
+      "Exactitud antes que ruido.",
+      "Estrategia antes que estética aislada.",
+      "Simplicidad como ventaja competitiva.",
+      "Escalabilidad como principio de diseño."
+    ]
+  },
+
+  "team": {
+    "id": "team",
+    "title": "Un equipo obsesionado con el diseño sistemático.",
+    "subtitle": "Ingeniería, creatividad y estrategia operando como una sola unidad.",
+    "cta": "Conocer al equipo"
+  }
+}

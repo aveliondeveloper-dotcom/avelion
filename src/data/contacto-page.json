@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "title": "Conectemos con precisión.",
+    "subtitle": "Tecnología, estrategia y visión al servicio de tu proyecto.",
+    "description": "Comparte tu objetivo y coordinemos juntos el siguiente movimiento."
+  },
+
+  "channels": [
+    {
+      "label": "Correo",
+      "value": "aveliondeveloper@gmail.com"
+    },
+    {
+      "label": "Teléfono",
+      "value": "+52 56 6162 1222"
+    },
+    {
+      "label": "Ciudad",
+      "value": "Ciudad de México, MX"
+    }
+  ],
+
+  "socials": [
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com/aveliondevelopers",
+      "icon": "instagram"
+    },
+    {
+      "label": "Facebook",
+      "url": "https://facebook.com/aveliondevelopers",
+      "icon": "facebook"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/company/aveliondevelopers",
+      "icon": "linkedin"
+    },
+    {
+      "label": "X",
+      "url": "https://twitter.com/aveliondev",
+      "icon": "twitter"
+    }
+  ],
+
+  "form": {
+    "cta": "Enviar mensaje"
+  },
+
+  "map": {
+    "embedUrl": "https://www.google.com/maps/embed?...tu-url"
+  }
+}

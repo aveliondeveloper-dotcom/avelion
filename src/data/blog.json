@@ -1,0 +1,643 @@
+{
+  "hero": {
+    "title": "Ideas que transforman",
+    "subtitle": "Tendencias, tecnología y visión estratégica para negocios modernos",
+    "description": "Insights escritos por el equipo Avelion para impulsar decisiones inteligentes."
+  },
+  "categories": [
+    { "id": "tech", "label": "Tecnología" },
+    { "id": "design", "label": "Diseño" },
+    { "id": "business", "label": "Negocios" },
+    { "id": "marketing", "label": "Marketing" }
+  ],
+  "posts": [
+    {
+      "id": "post-01",
+      "title": "Cómo usar IA para escalar operaciones",
+      "excerpt": "Una guía práctica para implementar sistemas inteligentes en pymes y startups.",
+      "category": "tech",
+      "date": "2025-10-12",
+      "image": "/blog/ia-scale.jpg",
+      "longDescription": "La IA permite que una operación pase de depender de tareas humanas repetitivas a flujos automáticos que aprenden, anticipan y ejecutan. No se trata de sustituir equipos, sino de desbloquear crecimiento con tiempos más ágiles y decisiones basadas en datos reales.",
+      "highlights": [
+        "Automatización de procesos clave sin fricción.",
+        "Asistentes inteligentes para ventas, soporte y operación.",
+        "Predicción de demanda y optimización continua."
+      ],
+      "insights": [
+        "La IA acelera hasta 4x la capacidad operativa de un negocio.",
+        "Los equipos trabajan mejor cuando delegan tareas repetitivas.",
+        "La ventaja competitiva llega al medir y actuar en tiempo real."
+      ],
+      "useCases": [
+        "Atención automatizada con clasificación inteligente.",
+        "Control de inventario predictivo.",
+        "Procesos internos guiados por datos."
+      ],
+      "whyItMatters": "Las empresas que adoptan IA primero adquieren un ritmo de ejecución imposible de alcanzar manualmente."
+    },
+
+    {
+      "id": "tech-02",
+      "title": "Automatización 360: qué procesos digitalizar primero",
+      "excerpt": "Un mapa claro para priorizar automatizaciones según retorno operativo.",
+      "category": "tech",
+      "date": "2025-11-08",
+      "image": "/blog/automation-360.jpg",
+      "longDescription": "Automatizar todo no es la respuesta. La clave es priorizar los procesos que generan más fricción, costos o errores. Un enfoque 360 permite evaluar impacto, esfuerzo y retorno para construir una operación inteligente que escala sola.",
+      "highlights": [
+        "Identificación de cuellos de botella.",
+        "Flujos automatizados interconectados.",
+        "Ahorro operativo progresivo."
+      ],
+      "insights": [
+        "Las automatizaciones deben ser medibles desde el día uno.",
+        "Lo urgente no siempre es lo más rentable.",
+        "La integración correcta evita sistemas aislados."
+      ],
+      "useCases": [
+        "Onboarding automatizado de clientes.",
+        "Gestión de órdenes y seguimiento automático.",
+        "Integración entre CRM, ERP y herramientas internas."
+      ],
+      "whyItMatters": "Digitalizar con una estrategia clara reduce hasta 40% los costos operativos."
+    },
+
+    {
+      "id": "tech-03",
+      "title": "Datos como producto: el nuevo oro para las empresas modernas",
+      "excerpt": "Cómo transformar datos dispersos en activos estratégicos y monetizables.",
+      "category": "tech",
+      "date": "2025-09-15",
+      "image": "/blog/data-product.jpg",
+      "longDescription": "Los datos dejaron de ser un registro. Hoy son un activo que, si se organiza, analiza y distribuye correctamente, incrementa su valor en cada uso. Tratar la información como producto implica trazabilidad, estructura y visión estratégica.",
+      "highlights": [
+        "Modelos de datos con visión de negocio.",
+        "Infraestructura escalable para análisis continuo.",
+        "Oportunidades de monetización indirecta."
+      ],
+      "insights": [
+        "Las decisiones rápidas requieren datos listos para usar.",
+        "El orden de la información es una ventaja competitiva.",
+        "El valor está en los patrones, no en las cifras sueltas."
+      ],
+      "useCases": [
+        "Reportes automáticos para directores.",
+        "Dashboards predictivos en tiempo real.",
+        "Modelos de recomendación o segmentación."
+      ],
+      "whyItMatters": "Las empresas más rentables del mundo basan su operación en datos accionables."
+    },
+
+    {
+      "id": "tech-04",
+      "title": "Arquitecturas modulares: la clave para escalar sin fricción",
+      "excerpt": "Por qué los sistemas desacoplados reducen costos y aceleran la innovación.",
+      "category": "tech",
+      "date": "2025-10-01",
+      "image": "/blog/modular-architecture.jpg",
+      "longDescription": "Una arquitectura modular permite evolucionar partes del sistema sin apagar toda la operación. Es la base tecnológica para empresas que crecen rápido, necesitan estabilidad y buscan evitar que un cambio rompa todo.",
+      "highlights": [
+        "Evolución independiente por módulos.",
+        "Menor riesgo técnico y mayor estabilidad.",
+        "Flexibilidad para integrar nuevas tecnologías."
+      ],
+      "insights": [
+        "La modularidad acelera el desarrollo hasta 5x.",
+        "Un cambio local no debe afectar al sistema completo.",
+        "Permite implementar mejoras continuas sin frenar la operación."
+      ],
+      "useCases": [
+        "Sistemas de ventas escalables.",
+        "Plataformas corporativas con múltiples divisiones.",
+        "Aplicaciones con microservicios o front-ends desacoplados."
+      ],
+      "whyItMatters": "La escalabilidad depende de estructuras que resisten crecimiento sin romperse."
+    },
+
+    {
+      "id": "tech-05",
+      "title": "El futuro del e-commerce inteligente",
+      "excerpt": "Predicción, personalización y automatización en tiendas digitales.",
+      "category": "tech",
+      "date": "2025-07-12",
+      "image": "/blog/smart-ecommerce.jpg",
+      "longDescription": "El comercio electrónico evoluciona hacia experiencias predictivas donde cada usuario ve exactamente lo que necesita. La IA, la analítica y las automatizaciones redefinen cómo se vende, se retiene y se escala.",
+      "highlights": [
+        "Recomendaciones basadas en comportamiento.",
+        "Automatización del ciclo de venta.",
+        "Optimización constante del embudo."
+      ],
+      "insights": [
+        "La personalización aumenta hasta 30% la tasa de conversión.",
+        "Las tiendas inteligentes requieren sistemas conectados.",
+        "El análisis continuo permite decisiones rápidas."
+      ],
+      "useCases": [
+        "Reactivación automática de carritos.",
+        "Upselling guiado por IA.",
+        "Reportes detallados de comportamiento del cliente."
+      ],
+      "whyItMatters": "Las tiendas que aprenden del usuario venden más y gastan menos."
+    },
+
+    {
+      "id": "tech-06",
+      "title": "Seguridad digital para pymes sin complejidad",
+      "excerpt": "Buenas prácticas para blindar tu operación sin inversiones excesivas.",
+      "category": "tech",
+      "date": "2025-06-28",
+      "image": "/blog/cybersecurity-sme.jpg",
+      "longDescription": "La seguridad digital dejó de ser opcional. Las pymes necesitan prácticas simples, automatizadas y accesibles para proteger su operación sin caer en sistemas costosos o difíciles de implementar.",
+      "highlights": [
+        "Autenticación moderna.",
+        "Copias de seguridad automatizadas.",
+        "Monitoreo en tiempo real."
+      ],
+      "insights": [
+        "La mayoría de ataques se pueden evitar con medidas básicas.",
+        "No necesitas infraestructura compleja para protegerte.",
+        "La prevención es más rentable que la reacción."
+      ],
+      "useCases": [
+        "Sistemas con roles y permisos claros.",
+        "Alertas automáticas de comportamiento sospechoso.",
+        "Backups cifrados y restauración rápida."
+      ],
+      "whyItMatters": "Una empresa segura es una empresa estable lista para crecer."
+    },
+
+    {
+      "id": "post-02",
+      "title": "Branding minimalista para marcas premium",
+      "excerpt": "Claves visuales y estratégicas del diseño minimal que realmente convierte.",
+      "category": "design",
+      "date": "2025-08-20",
+      "image": "/blog/minimal-branding.jpg",
+      "longDescription": "El branding minimalista no es simplificar por simplificar; es comunicar con precisión. Las marcas premium aprovechan espacios limpios, decisiones tipográficas cuidadas y símbolos memorables para transmitir valor sin decir demasiado.",
+      "highlights": [
+        "Uso estratégico del espacio negativo.",
+        "Identidades visuales memorables.",
+        "Consistencia en todos los puntos de contacto."
+      ],
+      "insights": [
+        "El minimalismo comunica autoridad y claridad.",
+        "Una marca premium no grita: respira.",
+        "Cada elemento visual debe cumplir un propósito."
+      ],
+      "useCases": [
+        "Rebranding para productos de alto valor.",
+        "Sistemas visuales para marcas aspiracionales.",
+        "Packaging y diseño editorial limpio."
+      ],
+      "whyItMatters": "Una identidad clara facilita decisiones, ventas y reconocimiento."
+    },
+
+    {
+      "id": "design-02",
+      "title": "Sistemas visuales escalables: cómo mantener coherencia en múltiples canales",
+      "excerpt": "Del logo al motion: creando un universo visual consistente para crecer.",
+      "category": "design",
+      "date": "2025-09-03",
+      "image": "/blog/visual-systems.jpg",
+      "longDescription": "Un sistema visual escalable permite que una marca se exprese con claridad desde una tarjeta hasta una plataforma digital compleja. La coherencia y la modularidad garantizan una experiencia alineada sin importar el canal.",
+      "highlights": [
+        "Reglas claras de uso de color, tipografía y layout.",
+        "Componentes reutilizables para productos digitales.",
+        "Adaptabilidad para campañas y contenidos."
+      ],
+      "insights": [
+        "La coherencia visual mejora la percepción de confianza.",
+        "Un sistema bien definido acelera producción creativa.",
+        "El diseño modular evita inconsistencias."
+      ],
+      "useCases": [
+        "UI kits para productos digitales.",
+        "Brand books y guías evolutivas.",
+        "Campañas multiplataforma totalmente alineadas."
+      ],
+      "whyItMatters": "La solidez de una marca depende de su capacidad de ser consistente al crecer."
+    },
+
+    {
+      "id": "design-03",
+      "title": "Interfaces oscuras: cuándo usarlas y cómo hacerlas realmente usables",
+      "excerpt": "Guía práctica para diseñar experiencias dark mode elegantes y accesibles.",
+      "category": "design",
+      "date": "2025-10-22",
+      "image": "/blog/dark-ui.jpg",
+      "longDescription": "El dark mode no es una estética aislada: es una experiencia completa que requiere contraste, jerarquía, iluminación visual y decisiones inteligentes de accesibilidad. Bien aplicado, eleva la percepción de modernidad y enfoque tecnológico.",
+      "highlights": [
+        "Contraste equilibrado sin fatiga visual.",
+        "Brillos y halos sutiles para guiar la vista.",
+        "Uso estratégico de acentos de color."
+      ],
+      "insights": [
+        "Las interfaces oscuras realzan contenido visual.",
+        "Los errores comunes están en saturación y contraste.",
+        "La iluminación visual define la percepción de modernidad."
+      ],
+      "useCases": [
+        "Dashboards de alto rendimiento.",
+        "Apps para entornos nocturnos.",
+        "Sitios premium con estética futurista."
+      ],
+      "whyItMatters": "La oscuridad bien diseñada transmite precisión, elegancia y autoridad."
+    },
+
+    {
+      "id": "design-04",
+      "title": "Microinteracciones que elevan la percepción de marca",
+      "excerpt": "Pequeños detalles, gran impacto: la psicología del motion suave.",
+      "category": "design",
+      "date": "2025-08-11",
+      "image": "/blog/microinteractions.jpg",
+      "longDescription": "Las microinteracciones son movimientos sutiles que refuerzan intención, jerarquía y sensación de fluidez. Bien diseñadas, transmiten cuidado, profesionalismo y una atención absoluta al detalle.",
+      "highlights": [
+        "Motion suave y guiado.",
+        "Transiciones con intención.",
+        "Retroalimentación inmediata para el usuario."
+      ],
+      "insights": [
+        "Las pequeñas animaciones mejoran la percepción de calidad.",
+        "El exceso de movimiento confunde y cansa.",
+        "La intención debe sentirse natural, nunca decorativa."
+      ],
+      "useCases": [
+        "Hover states elegantes.",
+        "Indicadores de carga intuitivos.",
+        "Transiciones entre secciones o vistas."
+      ],
+      "whyItMatters": "Los detalles correctos definen si una marca se siente estándar o excepcional."
+    },
+
+    {
+      "id": "design-05",
+      "title": "UX para negocios: diseño enfocado en conversión",
+      "excerpt": "Cómo eliminar fricción y mejorar resultados con decisiones basadas en comportamiento.",
+      "category": "design",
+      "date": "2025-07-30",
+      "image": "/blog/ux-conversion.jpg",
+      "longDescription": "El diseño centrado en conversión utiliza comportamiento real del usuario para simplificar decisiones, eliminar pasos innecesarios y guiar hacia acciones clave. La experiencia debe sentirse fluida, intuitiva y orientada a resultados.",
+      "highlights": [
+        "Rutas claras para acciones importantes.",
+        "Fricción reducida en formularios y procesos.",
+        "Elementos visuales que guían sin distraer."
+      ],
+      "insights": [
+        "El 70% de pérdida ocurre por fricción evitable.",
+        "La claridad supera cualquier tendencia estética.",
+        "El usuario decide en segundos: diseña para eso."
+      ],
+      "useCases": [
+        "Flujos de checkout optimizados.",
+        "Formularios inteligentes.",
+        "Landing pages de alto impacto."
+      ],
+      "whyItMatters": "Una UX orientada a resultados se traduce directamente en más ventas y menos abandono."
+    },
+
+    {
+      "id": "design-06",
+      "title": "Diseño inteligente con IA: productividad y creatividad combinadas",
+      "excerpt": "Workflows que integran generación asistida sin perder la esencia humana.",
+      "category": "design",
+      "date": "2025-06-18",
+      "image": "/blog/ai-design.jpg",
+      "longDescription": "La IA abre nuevas posibilidades para crear más rápido sin perder intención creativa. Permite explorar rutas visuales, generar variaciones y acelerar procesos manteniendo control total sobre la dirección artística.",
+      "highlights": [
+        "Generación asistida para moodboards y concepts.",
+        "Variaciones rápidas para explorar ideas.",
+        "Ajustes precisos con dirección humana."
+      ],
+      "insights": [
+        "La IA no sustituye visión creativa: la amplifica.",
+        "La velocidad abre espacio a más exploración.",
+        "El diseñador guía, la IA acelera."
+      ],
+      "useCases": [
+        "Exploración de branding inicial.",
+        "Producción de assets repetitivos.",
+        "Propuestas visuales rápidas para clientes."
+      ],
+      "whyItMatters": "La creatividad combinada con tecnología produce resultados superiores en menos tiempo."
+    },
+
+    {
+      "id": "business-01",
+      "title": "Digitalización para directores: hoja de ruta de 90 días",
+      "excerpt": "Un plan ejecutivo para iniciar la transformación con foco en retorno.",
+      "category": "business",
+      "date": "2025-11-01",
+      "image": "/blog/digital-roadmap.jpg",
+      "longDescription": "La digitalización efectiva requiere claridad, orden y un plan ejecutable. Los primeros 90 días determinan el ritmo, la inversión y el impacto real dentro de una organización que busca modernizarse.",
+      "highlights": [
+        "Primer diagnóstico operativo.",
+        "Priorización de procesos críticos.",
+        "Acciones medibles semana a semana."
+      ],
+      "insights": [
+        "La transformación inicia con claridad, no con tecnología.",
+        "El liderazgo define el ritmo del cambio.",
+        "Los avances pequeños producen grandes retornos."
+      ],
+      "useCases": [
+        "Implementación de herramientas básicas.",
+        "Automatización inicial de tareas repetitivas.",
+        "Dashboards directivos con datos clave."
+      ],
+      "whyItMatters": "Una buena dirección acorta años de adopción tecnológica."
+    },
+
+    {
+      "id": "business-02",
+      "title": "Cómo reducir costos operativos con tecnología accesible",
+      "excerpt": "Acciones de alto impacto sin inversiones de alto riesgo.",
+      "category": "business",
+      "date": "2025-10-10",
+      "image": "/blog/cost-reduction.jpg",
+      "longDescription": "La tecnología adecuada puede reducir costos sin comprometer calidad. La clave está en identificar procesos manuales o ineficientes y reemplazarlos con herramientas inteligentes que automatizan y miden.",
+      "highlights": [
+        "Optimización del tiempo del equipo.",
+        "Herramientas económicas con alto impacto.",
+        "Procesos medibles y repetibles."
+      ],
+      "insights": [
+        "La inversión inteligente genera retorno inmediato.",
+        "Reducir costos no significa reducir calidad.",
+        "La eficiencia crea margen para crecer."
+      ],
+      "useCases": [
+        "CRM para ventas pequeñas.",
+        "Automatización en facturación.",
+        "Bots de soporte básico."
+      ],
+      "whyItMatters": "Una empresa que gasta menos y produce más es una empresa lista para escalar."
+    },
+
+    {
+      "id": "business-03",
+      "title": "Modelos de negocio impulsados por datos",
+      "excerpt": "Decisiones más rápidas y rentables gracias al análisis continuo.",
+      "category": "business",
+      "date": "2025-09-21",
+      "image": "/blog/data-business-models.jpg",
+      "longDescription": "Los modelos de negocio basados en datos permiten predecir comportamientos, ajustar estrategias y reaccionar antes de que un problema ocurra. Las empresas modernas crecen gracias a decisiones informadas y medibles.",
+      "highlights": [
+        "Inteligencia comercial basada en patrones.",
+        "Monitoreo constante del rendimiento.",
+        "Toma de decisiones acelerada."
+      ],
+      "insights": [
+        "La intuición funciona, los datos la refinan.",
+        "Un negocio que mide, mejora.",
+        "Los patrones de usuario revelan oportunidades."
+      ],
+      "useCases": [
+        "Pricing dinámico.",
+        "Identificación de productos estrella.",
+        "Predicción de demanda."
+      ],
+      "whyItMatters": "Los datos proveen claridad en mercados caóticos."
+    },
+
+    {
+      "id": "business-04",
+      "title": "El rol del CEO moderno: tecnología como ventaja competitiva",
+      "excerpt": "Cómo liderar equipos híbridos y preparar la empresa para los próximos 5 años.",
+      "category": "business",
+      "date": "2025-08-16",
+      "image": "/blog/ceo-modern.jpg",
+      "longDescription": "El CEO moderno entiende la tecnología no como un accesorio, sino como un motor del negocio. Su rol es conectar visión, operación y sistemas para crear una organización adaptable y lista para escalar.",
+      "highlights": [
+        "Liderazgo basado en datos.",
+        "Cultura digital en todos los niveles.",
+        "Equipos híbridos organizados por resultados."
+      ],
+      "insights": [
+        "La tecnología define objetivos y ritmo.",
+        "El liderazgo digital es colaborativo.",
+        "La visión debe traducirse en sistemas."
+      ],
+      "useCases": [
+        "Implementaciones tecnológicas guiadas por directivos.",
+        "Reestructuración de áreas con foco operativo.",
+        "Planes de innovación continua."
+      ],
+      "whyItMatters": "Un CEO tecnológico acelera innovación, reduce costos y aumenta competitividad."
+    },
+
+    {
+      "id": "business-05",
+      "title": "Operación inteligente: la infraestructura detrás de un negocio escalable",
+      "excerpt": "Tecnologías clave para crecer con orden y trazabilidad.",
+      "category": "business",
+      "date": "2025-07-05",
+      "image": "/blog/smart-operations.jpg",
+      "longDescription": "La operación inteligente es la base de un crecimiento sostenible. Implica sistemas conectados, procesos medibles y herramientas que permiten ver en tiempo real qué está pasando dentro del negocio.",
+      "highlights": [
+        "Integración entre áreas.",
+        "Trazabilidad total de procesos.",
+        "Alertas automáticas para decisiones rápidas."
+      ],
+      "insights": [
+        "Una operación ordenada reduce errores.",
+        "La visibilidad acelera decisiones.",
+        "La tecnología permite expansión sin caos."
+      ],
+      "useCases": [
+        "ERP en la nube.",
+        "Sistemas de órdenes automatizados.",
+        "Monitoreo en dashboards ejecutivos."
+      ],
+      "whyItMatters": "Sin operación sólida, ningún modelo de negocio escala."
+    },
+
+    {
+      "id": "business-06",
+      "title": "Cómo preparar tu empresa para la automatización",
+      "excerpt": "Cultura, procesos y mentalidad antes de implementar tecnología.",
+      "category": "business",
+      "date": "2025-06-10",
+      "image": "/blog/automation-ready.jpg",
+      "longDescription": "La automatización exitosa requiere más que tecnología: requiere cultura, claridad y procesos bien definidos. Un equipo alineado y sistemas ordenados garantizan adopción fluida.",
+      "highlights": [
+        "Preparación de equipos antes de automatizar.",
+        "Roles claros y responsabilidades definidas.",
+        "Procesos listos para digitalizar."
+      ],
+      "insights": [
+        "La cultura digital crea adopción fluida.",
+        "Automatizar desorden solo amplifica el desorden.",
+        "La mentalidad correcta reduce fricción."
+      ],
+      "useCases": [
+        "Mapeo de procesos.",
+        "Capacitación básica digital.",
+        "Gestión del cambio para equipos."
+      ],
+      "whyItMatters": "La automatización multiplica resultados cuando la empresa está lista."
+    },
+
+    {
+      "id": "marketing-01",
+      "title": "Marketing basado en datos: decisiones que multiplican resultados",
+      "excerpt": "Cómo alinear campañas, comportamiento y analítica sin complejidad.",
+      "category": "marketing",
+      "date": "2025-11-02",
+      "image": "/blog/data-marketing.jpg",
+      "longDescription": "El marketing moderno es una mezcla precisa de creatividad y analítica. Las empresas que usan datos para decidir qué comunicar, cuándo y a quién logran resultados superiores con menos inversión.",
+      "highlights": [
+        "Segmentación inteligente.",
+        "Modelos de atribución claros.",
+        "Análisis de comportamiento real."
+      ],
+      "insights": [
+        "Los datos revelan oportunidades y fugas.",
+        "Mejor medir poco y bien que mucho sin sentido.",
+        "Campañas basadas en comportamiento convierten más."
+      ],
+      "useCases": [
+        "Campañas con audiencias personalizadas.",
+        "Optimización de contenido por rendimiento.",
+        "Automatización de seguimiento post-venta."
+      ],
+      "whyItMatters": "Decidir con datos reduce gastos y aumenta impacto."
+    },
+
+    {
+      "id": "marketing-02",
+      "title": "Contenido inteligente: cómo usar IA para acelerar producción",
+      "excerpt": "Frameworks prácticos para equipos pequeños que buscan alto impacto.",
+      "category": "marketing",
+      "date": "2025-10-14",
+      "image": "/blog/smart-content.jpg",
+      "longDescription": "La producción de contenido ya no debe tomar semanas. La IA permite generar borradores, ideas, variaciones y optimizaciones rápidas para ejecutar campañas más veloces y mejor alineadas a datos.",
+      "highlights": [
+        "Creación asistida por IA.",
+        "Optimización basada en rendimiento.",
+        "Estrategias de contenido predictivo."
+      ],
+      "insights": [
+        "La IA libera tiempo para pensar, no para sustituir.",
+        "La velocidad define la relevancia.",
+        "El contenido debe adaptarse al comportamiento."
+      ],
+      "useCases": [
+        "Producción de copies en minutos.",
+        "Variaciones de anuncios para pruebas A/B.",
+        "Guiones de video generados por IA."
+      ],
+      "whyItMatters": "Equipos pequeños pueden producir como empresas grandes."
+    },
+
+    {
+      "id": "marketing-03",
+      "title": "Estrategias omnicanal para negocios locales",
+      "excerpt": "Del físico al digital: cómo crear experiencias conectadas.",
+      "category": "marketing",
+      "date": "2025-09-19",
+      "image": "/blog/omnichannel.jpg",
+      "longDescription": "Una estrategia omnicanal conecta puntos físicos y digitales para que el cliente viva una experiencia fluida sin importar dónde inicia o dónde termina su interacción.",
+      "highlights": [
+        "Integración entre tienda física y online.",
+        "Flujos consistentes en todos los canales.",
+        "Datos compartidos para personalización real."
+      ],
+      "insights": [
+        "Los usuarios no piensan en canales: piensan en experiencias.",
+        "La coherencia define la percepción de marca.",
+        "Los datos unificados multiplican la conversión."
+      ],
+      "useCases": [
+        "Reservas online con recogida en tienda.",
+        "Campañas locales con segmentación geográfica.",
+        "Programas de lealtad unificados."
+      ],
+      "whyItMatters": "La omnicanalidad convierte negocios locales en experiencias completas."
+    },
+
+    {
+      "id": "marketing-04",
+      "title": "Publicidad digital sin desperdicio",
+      "excerpt": "Cómo optimizar inversión con audiencias inteligentes y remarketing.",
+      "category": "marketing",
+      "date": "2025-08-02",
+      "image": "/blog/performance-ads.jpg",
+      "longDescription": "La publicidad digital eficiente se basa en segmentación precisa, optimización continua y aprendizaje basado en datos. El objetivo no es gastar más, es gastar mejor.",
+      "highlights": [
+        "Uso de audiencias basadas en comportamiento.",
+        "Pruebas A/B estratégicas.",
+        "Segmentación que reduce costo por resultado."
+      ],
+      "insights": [
+        "La creatividad importa, pero la segmentación manda.",
+        "El remarketing bien hecho es más rentable.",
+        "Medir mal es perder dinero sin notarlo."
+      ],
+      "useCases": [
+        "Anuncios dinámicos.",
+        "Retargeting en múltiples plataformas.",
+        "Campañas basadas en intención real."
+      ],
+      "whyItMatters": "Invertir bien genera resultados sostenibles sin desperdicio."
+    },
+
+    {
+      "id": "marketing-05",
+      "title": "El nuevo rol del sitio web: de catálogo a máquina de ventas",
+      "excerpt": "Arquitectura, contenido y tecnologías que impulsan conversión.",
+      "category": "marketing",
+      "date": "2025-07-11",
+      "image": "/blog/website-sales.jpg",
+      "longDescription": "El sitio web dejó de ser un folleto digital. Hoy es un sistema vivo que debe captar leads, convertir visitas y automatizar procesos. Su diseño, arquitectura y contenido determinan su capacidad de vender.",
+      "highlights": [
+        "Estructuras orientadas a objetivos.",
+        "Contenido basado en intención.",
+        "Tecnología que facilita conversión."
+      ],
+      "insights": [
+        "Un sitio sin estrategia no vende.",
+        "La arquitectura define claridad.",
+        "La conversión depende de decisiones mínimas pero precisas."
+      ],
+      "useCases": [
+        "Landing pages orientadas a acción.",
+        "Integraciones con CRM.",
+        "Sistemas de contacto automatizados."
+      ],
+      "whyItMatters": "Tu sitio debe vender incluso cuando tu equipo no está online."
+    },
+
+    {
+      "id": "marketing-06",
+      "title": "Cómo medir lo que realmente importa",
+      "excerpt": "KPIs claros para evaluar marketing sin ruido ni métricas vanidosas.",
+      "category": "marketing",
+      "date": "2025-06-04",
+      "image": "/blog/kpi-focus.jpg",
+      "longDescription": "Medir correctamente es entender dónde invertir, qué mejorar y qué abandonar. Muchos negocios se pierden en métricas de vanidad que lucen bien pero no generan impacto real.",
+      "highlights": [
+        "KPIs que importan para crecimiento.",
+        "Distinción entre ruido y señal.",
+        "Sistemas de medición claros y simples."
+      ],
+      "insights": [
+        "Menos métricas, más claridad.",
+        "Las decisiones deben basarse en impacto real.",
+        "Medir lo incorrecto destruye estrategia."
+      ],
+      "useCases": [
+        "Dashboards ejecutivos.",
+        "Métricas por canal alineadas a objetivos.",
+        "Seguimiento automático de conversiones."
+      ],
+      "whyItMatters": "Lo que mides define lo que mejoras."
+    }
+  ],
+  "cta": {
+    "title": "Construyamos tu próxima historia",
+    "subtitle": "Estrategia, diseño y tecnología listos para impulsar tu marca.",
+    "cta": "Hablar con Avelion"
+  }
+}

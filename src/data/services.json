@@ -1,0 +1,121 @@
+{
+  "offers": [
+    {
+      "title": "Descuento del 40%",
+      "description": "Aplica en tu primer servicio de diseño, estrategia o desarrollo web.",
+      "icon": "⚡"
+    },
+    {
+      "title": "Entrega Acelerada",
+      "description": "Inicio de proyecto en menos de 48 horas garantizado.",
+      "icon": "🚀"
+    },
+    {
+      "title": "Auditoría Gratuita",
+      "description": "Revisión de tu marca, sitio, ventas y oportunidades de crecimiento.",
+      "icon": "💡"
+    }
+  ],
+
+  "packages": [
+    {
+      "tag": "Starter",
+      "title": "Identidad & Presencia",
+      "description": "Ideal para emprendedores que buscan identidad y presencia digital inicial.",
+      "features": [
+        "Logotipo minimalista profesional",
+        "Paleta + tipografía base",
+        "Landing page informativa (One-Page)",
+        "Optimización móvil"
+      ],
+      "price": "16,900",
+      "button": "Empezar ahora"
+    },
+    {
+      "tag": "Recomendado",
+      "highlight": true,
+      "title": "Lanzamiento Digital",
+      "description": "La opción más equilibrada para emprender con bases sólidas y escalables.",
+      "features": [
+        "Identidad de Marca completa y estratégica",
+        "Desarrollo de Sitio Web 100% dinámico y personalizado",
+        "Sistema de Gestión de Contenidos (CMS) autoadministrable",
+        "Módulo de Ventas con IA y Analítica Avanzada"
+      ],
+      "price": "45,900",
+      "button": "Solicitar propuesta"
+    },
+    {
+      "tag": "Pro",
+      "title": "Sistema & Automatización",
+      "description": "Para emprendedores que quieren operar de forma inteligente desde el día uno.",
+      "features": [
+        "Branding completo y estrategia de marca",
+        "Tienda en línea a medida",
+        "Gestión de inventario y ventas integrada (CMS)",
+        "Módulo de Ventas con IA",
+        "Analítica avanzada y seguimiento de conversiones",
+        "Integración con métodos de pago y envío"
+      ],
+      "price": "75,900",
+      "button": "Agendar llamada"
+    }
+  ],
+
+  "features": [
+    {
+      "title": "Branding Estratégico",
+      "description": "Creamos identidades memorables diseñadas para comunicar autoridad y coherencia."
+    },
+    {
+      "title": "Web Inteligente",
+      "description": "Sitios con IA integrada, CMS dinámico y optimización avanzada."
+    },
+    {
+      "title": "Integración Total",
+      "description": "Sistemas conectados: ventas, inventario, leads y analítica en un solo flujo."
+    },
+    {
+      "title": "Escalabilidad en 360°",
+      "description": "Tu negocio preparado para crecer sin fricciones."
+    }
+  ],
+
+  "process": [
+    {
+      "step": "01",
+      "title": "Diagnóstico Inteligente",
+      "description": "Analizamos tu marca, industria, competencia y oportunidades."
+    },
+    {
+      "step": "02",
+      "title": "Arquitectura de Marca",
+      "description": "Construimos el sistema visual y estratégico que será tu base."
+    },
+    {
+      "step": "03",
+      "title": "Desarrollo Inteligente",
+      "description": "Creamos tu sitio, plataforma o sistema con IA integrada."
+    },
+    {
+      "step": "04",
+      "title": "Lanzamiento & Optimización",
+      "description": "Acompañamiento durante el lanzamiento y ajustes estratégicos."
+    }
+  ],
+
+  "faqs": [
+    {
+      "q": "¿Cuál es el tiempo promedio de entrega?",
+      "a": "De 7 a 21 días dependiendo del paquete seleccionado."
+    },
+    {
+      "q": "¿Incluye mantenimiento?",
+      "a": "Sí, ofrecemos mantenimiento opcional mensual y soporte técnico."
+    },
+    {
+      "q": "¿Puedo agregar módulos adicionales?",
+      "a": "Sí, Avelion opera de forma modular y escalable."
+    }
+  ]
+}
